@@ -1,0 +1,31 @@
+@uthor: jose felipe escobar 
+# email: jfejose10@gmail.com
+
+
+
+# se agrego funcion con codigo fuente python
+def funcion ():
+    a=4
+    b=5
+    c=a+b
+    print ("suma " + c)
+    
+
+#agrego segunda funcion de multiplicacion
+def multiplicacion 
+	c=4*5
+	print (c)
+
+
+
+ARCHIVO solo con comentarios iniciales
+
+#agrego la funcion inversa a la suma
+def resta():
+	c=5-4
+	print(c)
+
+#agrego una cuarta funcion 
+def division():
+    c=4/2
+    print (c)
