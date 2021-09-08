@@ -1,18 +1,13 @@
-# probando repositorio
+# portafolio JOSE FELIPE ESCOBAR BALLESTA
 
-```
-configurando distintos tipos de comentarios 
-```
 
-``voy aprendiendo  tipos de comentarios que hay en README``
+``INFORMACIO DE CONTACTO  ``
 
-**en negrita**
+**Correo: jfejose10@gmail.com**
 
-estilo con linea inferior H1
+lenguajes que conozco
 ===============
 
-* elemento con vinieta
-
-9. actividad
-
-***italic***
+* Python
+* Java
+  
