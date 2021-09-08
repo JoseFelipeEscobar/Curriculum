@@ -1,10 +1,10 @@
 # probando repositorio
 
 ```
-configurando distintos tipos de comentarios en casillas
+configurando distintos tipos de comentarios 
 ```
 
-``voy aprendiendo los 3 tipos de comentarios que hay en README``
+``voy aprendiendo  tipos de comentarios que hay en README``
 
 **en negrita**
 
@@ -15,4 +15,4 @@ estilo con linea inferior H1
 
 9. actividad
 
-***nombre***
+***italic***
