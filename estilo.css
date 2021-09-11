@@ -1,0 +1,45 @@
+header{
+    
+    background-color: rgb(111, 201, 201);
+    text-align: center;
+    border-radius: 10px;
+    padding: 2%;
+    
+}
+header img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    text-align: center;
+    color: darkslategray;
+}
+section{
+    width: 70%;
+    margin: auto;
+}
+article{
+    padding: 20px 0 20px 0;
+    border-bottom: 1px dashed darkgray;
+
+}
+article h2{
+    float: left;
+    border-bottom: 3px solid rgb(111, 201, 201);
+    padding-bottom: 2px;
+    line-height: 1.1em;
+    text-transform: uppercase;
+}
+/* article p{
+    margin-left: 20%;
+} */
+article p, article ul{
+    margin-left: 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: darkslategray;
+    line-height: 2em;
+    margin-bottom: 1em;
+}
+article ul li{
+    margin-left: -3%;
+    list-style: square;
+}
