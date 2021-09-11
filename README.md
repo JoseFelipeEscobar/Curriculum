@@ -1,13 +1,20 @@
-# portafolio JOSE FELIPE ESCOBAR BALLESTA
+# JOSE FELIPE ESCOBAR BALLESTA
+### para visualizar Curriculum [click aqui ](https://josefelipeescobar.github.io/Curriculum/)
 
+<br>
 
-``INFORMACIO DE CONTACTO  ``
+### informacion de contacto
 
 **Correo: jfejose10@gmail.com**
 
-lenguajes que conozco
-===============
+
+### lenguajes que manejo
+
 
 * Python
 * Java
+* Javascript
+### Formato de paginas web
+* HTML 5
+* CSS 5
   
