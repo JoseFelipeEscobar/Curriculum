@@ -17,4 +17,6 @@
 ### Formato de paginas web
 * HTML 5
 * CSS 5
-  
+ ### Stack tecnológico
+* MERN
+* MEVN
